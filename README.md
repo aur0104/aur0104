@@ -24,6 +24,5 @@ You can also explore my past repositories and contributions here:
 ---
 
 ### 📫 Connect with Me
-- Upwork: [My Upwork Profile](https://www.upwork.com/)  
-- LinkedIn: [My LinkedIn](https://linkedin.com/)  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ateeq-ur-rehman-2a9923169/)  
 - Email: ateeq4112@gmail.com 
