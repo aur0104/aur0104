@@ -1,93 +1,72 @@
-Hi, I'm Ateeq 👋
+# Hi, I'm Ateeq 👋  
 
-🚀 React Native Developer | Blockchain Wallets | Mobile Applications
+🚀 **React Native Developer | Blockchain Wallets | Mobile Applications**  
 
-I’m a passionate Mobile Developer with 5 years of experience building high-performance iOS and Android apps.
-Skilled in React Native, TypeScript, Redux Toolkit, Firebase, and Blockchain wallet integrations.
-📎 Previous Work
+I’m a passionate Mobile Developer with **5 years of experience** building high-performance **iOS and Android apps**.  
+Specialized in **React Native, TypeScript, Redux Toolkit, Firebase, and Blockchain Wallet Integrations**.  
 
-You can also explore my past repositories and contributions here:
-➡️ @ateeq4112
-🔥 What I Do
+🔗 **Previous Work**: [@ateeq4112](https://github.com/ateeq4112)  
 
-Build cross-platform apps with React Native & TypeScript
+---
 
-Develop blockchain-based solutions (multi-chain wallets, MetaMask/Trust Wallet alternatives)
+## 💼 Industry Experience  
 
-Integrate APIs, Firebase, and real-time features
+- **Codora (2023 – Present)**  
+  - React Native Developer – Blockchain-based mobile applications  
+  - Built **multichain crypto wallets** (Ethereum, Solana, Tron)  
+  - Created alternatives to **MetaMask/Trust Wallet** with secure wallet integrations  
 
-Optimize app performance and user experience
+- **York Stream Technology (YSTL)**  
+  - Developed and maintained **enterprise-level mobile applications**  
+  - Focused on **performance optimization** and **cross-platform consistency**  
 
-Deliver scalable, secure, and user-focused mobile solutions
+- **Develo IT Solution**  
+  - Delivered **end-to-end React Native apps** for clients  
+  - Worked on **Firebase integration, API handling, and app performance**  
 
-📌 Featured Projects
+---
 
-Tangem SDK React Native
- – React Native SDK plugin
+## 📌 Featured Projects  
 
-Infinity Task
- – Task management demo
+- **[Tangem SDK React Native](https://github.com/aur0104/tangem-sdk-react-native)** – React Native SDK plugin  
 
-React Native Video
- – Video component for React Native
+- **[DAU Vault – Multichain Crypto Wallet](https://play.google.com/store/apps/details?id=com.dau.wallet)** 🔐  
+  - Tech: React Native, Web3, Blockchain, Node.js  
+  - Role: Frontend Developer – Implemented secure wallet, API integration, and UI/UX improvements  
 
-🚀 Published Apps
-🛡️ DAU Vault – Multichain Crypto Wallet
+- **[DigitalWill](https://apps.apple.com/)** (Company: YSTL | **App Store**)  
+  - Tools: React Native, Node.js, Redux  
+  - App for **digital estate & end-of-life planning** (obituary, funeral plans, beneficiary management)  
+  - **My Role**: Built the **UI from scratch** and handled complete **API integration**  
 
-📌 Play Store Link
+- **[Study Cation](https://play.google.com/)** (Company: Develo IT Solution | **Play Store**)  
+  - Tools: React Native, Firebase, Redux  
+  - Educational app for students to **find study partners, chat, and collaborate**  
+  - **My Role**: Built the **UI**, integrated **APIs**, and managed **Firebase Firestore backend**  
 
-🔧 React Native, Web3, Native Bridging, Blockchain, Node.js, Hardware Wallet
-Role: Frontend Developer – Implemented secure wallet, API integration, and UI/UX improvements.
+---
 
-📜 DigitalWill – Digital Estate Planning
+## 💻 Skills  
 
-📌 App Store Link
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)  
 
-🔧 React Native, Node.js, Redux
-Role: Frontend Developer – Built UI from scratch, handled full API integration.
+---
 
-🎓 Study Cation – Student Collaboration App
+## 📊 GitHub Stats  
 
-📌 Play Store Link
+![Ateeq’s GitHub stats](https://github-readme-stats.vercel.app/api?username=aur0104&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aur0104&layout=compact&theme=tokyonight)  
 
-🔧 React Native, Firebase, Redux
-Role: React Native Developer – Built UI, integrated APIs, managed Firebase Firestore backend.
+---
 
-💼 Experience
+## 📫 Connect with Me  
 
-Codora, Islamabad (May 2023 – Present)
-
-Enhanced UI/UX and implemented secure storage for a non-custodial multichain wallet.
-
-Built wallet features for Ethereum, Solana, and Tron, ensuring scalability and performance.
-
-Integrated native modules with React Native to optimise app functionality.
-
-York Stream Technology, Islamabad (Sep 2022 – Mar 2023)
-
-Developed and maintained scalable mobile apps using React Native.
-
-Deployed apps to Google Play & App Store with CI/CD pipelines.
-
-Develo IT Solution, Islamabad (Apr 2021 – Aug 2022)
-
-Built and maintained mobile apps with React Native + TypeScript.
-
-Collaborated with backend and design teams for smooth delivery.
-
-BLS Solution, Rawalpindi (Dec 2019 – Mar 2021)
-
-Worked as a Junior Full Stack Developer (Laravel, JS, jQuery, React Native).
-
-Developed admin panels and two mobile applications.
-
-🛠️ Skills
-
-Mobile Development: React Native, Redux, TypeScript, Native Bridging
-
-Blockchain: Web3, Ethereum, Solana, Tron, Wallet Integrations
-
-Backend & Tools: Node.js, Firebase, Laravel, Git, CI/CD
-
-Frontend: HTML, CSS, JavaScript, jQuery
-
+- 💼 Upwork: [My Upwork Profile]([https://www.upwork.com/](https://www.upwork.com/freelancers/~01546e06eb594e66cf))  
+- 💼 LinkedIn: [My LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ateeq-ur-rehman-2a9923169/))  
+- 📧 Email: ateeq4112@gmail.com
+-  📞 Phone: +92 315 5587088
