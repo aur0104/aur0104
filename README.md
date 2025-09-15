@@ -5,7 +5,7 @@
 I’m a passionate Mobile Developer with **5 years of experience** building high-performance **iOS and Android apps**.  
 Specialized in **React Native, TypeScript, Redux Toolkit, Firebase, and Blockchain Wallet Integrations**.  
 
-🔗 **Previous Work**: [@ateeq4112](https://github.com/ateeq4112)  
+🔗 **Previous Repo**: [@ateeq4112](https://github.com/ateeq4112)  
 
 ---
 
@@ -57,12 +57,6 @@ Specialized in **React Native, TypeScript, Redux Toolkit, Firebase, and Blockcha
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ateeq’s GitHub stats](https://github-readme-stats.vercel.app/api?username=aur0104&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aur0104&layout=compact&theme=tokyonight)  
-
----
 
 ## 📫 Connect with Me  
 
