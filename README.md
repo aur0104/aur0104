@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ateeq 👋
 
-<!--
-**aur0104/aur0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **React Native Developer | Blockchain Wallets | Mobile Applications**
 
-Here are some ideas to get you started:
+I’m a passionate Mobile Developer with 4+ years of experience building high-performance iOS and Android apps.  
+Skilled in React Native, TypeScript, Redux Toolkit, Firebase, and Blockchain wallet integrations.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 What I Do
+- Build **cross-platform apps** with React Native & TypeScript  
+- Develop **blockchain-based solutions** (multi-chain wallets, MetaMask/Trust Wallet alternatives)  
+- Integrate APIs, Firebase, and real-time features  
+- Optimize app performance and user experience  
+
+---
+
+---
+
+### 📎 Previous Work
+You can also explore my past repositories and contributions here:  
+➡️ [@ateeq4112](https://github.com/ateeq4112)
+
+---
+
+### 📫 Connect with Me
+- Upwork: [My Upwork Profile](https://www.upwork.com/)  
+- LinkedIn: [My LinkedIn](https://linkedin.com/)  
+- Email: ateeq4112@gmail.com 
