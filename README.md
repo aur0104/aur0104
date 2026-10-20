@@ -1,74 +1,94 @@
-# Hi, I'm Ateeq 👋  
+# Hi, I'm Ateeq 👋
 
-🚀 **React Native Developer | Blockchain Wallets | Mobile Applications**  
+🚀 **Senior Software Engineer | React Native | Web3 & Blockchain Wallets | Mobile Applications**
 
-I’m a passionate Mobile Developer with **5 years of experience** building high-performance **iOS and Android apps**.  
-Specialized in **React Native, TypeScript, Redux Toolkit, Firebase, and Blockchain Wallet Integrations**.  
+I'm a Mobile App Developer with **5+ years of experience** building scalable **iOS and Android apps**.
+Specialized in **React Native, TypeScript, Redux Toolkit, Firebase, Web3 integration, and native modules (Kotlin/Swift)**.
+Background across fintech, crypto, and consumer apps, including code review and mentoring junior developers.
 
-🔗 **Previous Repo**: [@ateeq4112](https://github.com/ateeq4112)  
-
----
-
-## 💼 Industry Experience  
-
-- **Codora (2023 – Present)**  
-  - React Native Developer – Blockchain-based mobile applications  
-  - Built **multichain crypto wallets** (Ethereum, Solana, Tron)  
-  - Created alternatives to **MetaMask/Trust Wallet** with secure wallet integrations  
-
-- **York Stream Technology (YSTL)**  
-  - Developed and maintained **enterprise-level mobile applications**  
-  - Focused on **performance optimization** and **cross-platform consistency**  
-
-- **Develo IT Solution**  
-  - Delivered **end-to-end React Native apps** for clients  
-  - Worked on **Firebase integration, API handling, and app performance**  
-- **Junior Full Stack Developer – BLS Solution** *(Dec 2019 – Mar 2021)*  
-- Developed and maintained admin panel using Laravel, JavaScript, jQuery, AJAX  
-- Designed and integrated two mobile apps with React Native  
-- Ensured code quality and performance through testing and best practices  
----
-
-## 📌 Featured Projects  
-
-- **[Tangem SDK React Native](https://github.com/aur0104/tangem-sdk-react-native)** – React Native SDK plugin  
-
-- **[DAU Vault – Multichain Crypto Wallet](https://play.google.com/store/apps/details?id=com.dau.wallet)** 🔐  
-  - Tech: React Native, Web3, Blockchain, Node.js  
-  - Role: Frontend Developer – Implemented secure wallet, API integration, and UI/UX improvements  
-
-- **[DigitalWill](https://apps.apple.com/)** (Company: YSTL | **App Store**)  
-  - Tools: React Native, Node.js, Redux  
-  - App for **digital estate & end-of-life planning** (obituary, funeral plans, beneficiary management)  
-  - **My Role**: Built the **UI from scratch** and handled complete **API integration**  
-
-- **[Study Cation](https://play.google.com/)** (Company: Develo IT Solution | **Play Store**)  
-  - Tools: React Native, Firebase, Redux  
-  - Educational app for students to **find study partners, chat, and collaborate**  
-  - **My Role**: Built the **UI**, integrated **APIs**, and managed **Firebase Firestore backend**  
+🔗 **Previous Repo**: [@ateeq4112](https://github.com/ateeq4112)
 
 ---
 
-## 🛠️ Skills & Tools  
+## 💼 Industry Experience
+
+- **Quecko** *(Oct 2025 – Present)* – Mobile App Developer
+  - Build Web3 features for EVM and non-EVM chains: send/receive, DApp integration, token swaps, RWA tokenization
+  - Own push notifications (FCM), Crashlytics and Analytics, CI/CD, and OTA updates with RevoPush
+  - Review code and mentor junior developers
+
+- **Codora** *(May 2023 – Sep 2025)* – Mobile App Developer
+  - Built wallet features for Ethereum, Solana, and Tron in a **non-custodial multichain wallet**
+  - Integrated **Tangem hardware wallet** support and secure local storage
+  - Built custom **native modules** (Kotlin/Swift) to extend React Native
+
+- **York Stream Technology** *(Sep 2022 – Mar 2023)* – Software Engineer
+  - Built cross-platform apps with React Native and Flutter
+  - Automated build and release to Google Play and the App Store with **Fastlane**
+  - Integrated Firebase Analytics, Crashlytics, and Push Notifications
+
+- **Develo IT Solution** *(Apr 2021 – Aug 2022)* – Mobile Application Developer
+  - Built and maintained React Native apps, from UI design to implementation
+  - Took part in code reviews and coding standards
+
+- **BLS Solution** *(Dec 2019 – Mar 2021)* – Junior Full Stack Developer
+  - Built two React Native mobile apps
+  - Developed frontend and admin panel features with JavaScript, jQuery, AJAX, and Laravel
+
+---
+
+## 📌 Featured Projects
+
+- **[Tangem SDK React Native](https://github.com/aur0104/tangem-sdk-react-native)** – React Native SDK plugin
+
+- **Joni** (Quecko | **Play Store & App Store**)
+  - AI app that connects multiple AI models, with built-in agents for building websites, generating media, and writing code
+  - **My Role**: FCM push notifications, Crashlytics/Analytics, RevoPush OTA updates, CI/CD, and bug fixes on Android and iOS
+
+- **[DAU Vault – Non-Custodial Multichain Crypto Wallet](https://play.google.com/store/apps/details?id=com.dau.wallet)** 🔐 (Codora | **Play Store**)
+  - Tech: React Native, TypeScript, Web3, Reanimated, Gesture Handler
+  - Local encryption, cloud backup, and Tangem hardware wallet support
+  - **My Role**: Native module integration, API integration, animated transaction screens, and UI/UX improvements
+
+- **AirPocket** – Kenyan school payments app (Freelance)
+  - Built fee payment flows, FCM push notifications, and Fastlane CI/CD (TestFlight, Firebase App Distribution)
+
+- **[DigitalWill](https://apps.apple.com/)** (York Stream Technology | **App Store**)
+  - Digital estate and end-of-life planning app (obituary, funeral plans, beneficiary management)
+  - **My Role**: Built the UI and handled API integration with Firebase push notifications, analytics, and Crashlytics
+
+---
+
+## 🛠️ Skills & Tools
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Web3](https://img.shields.io/badge/Web3-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
+## 🎓 Education
 
-## 📫 Connect with Me  
+- **BS Software Engineering** – UET Taxila, Pakistan (2015 – 2019)
+- The Complete Android 14 & Kotlin Development Masterclass – Udemy
 
-- 💼 Upwork: [My Upwork Profile]([https://www.upwork.com/](https://www.upwork.com/freelancers/~01546e06eb594e66cf))  
-- 💼 LinkedIn: [My LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ateeq-ur-rehman-2a9923169/))  
+---
+
+## 📫 Connect with Me
+
+- 💼 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~01546e06eb594e66cf)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ateeq-ur-rehman-2a9923169/)
 - 📧 Email: ateeq4112@gmail.com
--  📞 Phone: +92 315 5587088
+- 📞 Phone: +92 315 5587088
